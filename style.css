@@ -1,0 +1,20 @@
+li {
+    display: inline-block ;
+    background-color: grey;
+    
+    
+} 
+    
+title{
+    font-family: roboto;
+    
+}
+
+header {
+    text-align: center;
+}
+
+ul{
+ padding: 30px;
+ font-size: xx-large;
+}
